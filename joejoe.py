@@ -1,9 +1,6 @@
-print("hi hih hi")
-
-print("hi hih hi")
-
-print("hi hih hi")
-
-print("hi hih hi")
-
-print("hi hih hi")
+print("hello world")
+print("My name Chaiwat")
+print("My nickname Joe")
+print("Graduated from Mathayom 6")
+print("Graduated from That Phanom School")
+print("Nakhon Phanom Province")
